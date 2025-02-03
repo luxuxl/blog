@@ -82,8 +82,9 @@ plugins:
     list_max_height: 320px # list max height
     list_folded: true
     autoHide: true    # hide automaticaly
-  darkmode:
+  darkmodejs:
     enable: true
+  # 背景图片滚动播放
   parallax:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.
